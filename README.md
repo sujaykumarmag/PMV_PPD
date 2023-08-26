@@ -1,7 +1,7 @@
 
 # Providing Thermal Comfort at Home/Office Automation
 
-![Thermal Comfort](one.png)
+![Thermal Comfort](one.jpg)
 
 This project aims to enhance thermal comfort in home and office environments through automation. By leveraging semi-supervised algorithms and the `pythermalcomfort` library, the project assesses the thermal comfort of individuals within rooms. It utilizes Support Vector Regression (SVR) for Predicted Mean Vote (PMV) calculations and classifies thermal sensation levels based on ASHRAE standards, while also introducing innovations to the UC Berkeley "pythermalcomfort" package.
 
