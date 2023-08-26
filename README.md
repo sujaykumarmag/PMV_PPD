@@ -21,11 +21,13 @@ This project aims to enhance thermal comfort in home and office environments thr
    cd thermal-comfort-automation
 
 2. Install all the Packages
-
+   
+   ```bash
     pip3 install --upgrade -r requirements.txt
 
-2. Run the Python Script
-
+3. Run the Python Script
+   
+   ```bash
     python pmv_ppd.py
    
    
