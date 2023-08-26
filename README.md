@@ -17,8 +17,8 @@ This project aims to enhance thermal comfort in home and office environments thr
 1. Clone this repository.
 
    ```bash
-   git clone https://github.com/your-username/thermal-comfort-automation.git
-   cd thermal-comfort-automation
+   git clone https://github.com/sujaykumarmag/PMV_PPD.git
+   cd PMV_PPD
 
 2. Install all the Packages
    
